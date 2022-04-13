@@ -19,7 +19,6 @@ El formulario permite realizar la búsqueda mediante la CURP de quien haya reali
 Para revisar la información completa referente al trámite, se puede dar clic en el botón de la columna **Información**.
 
 Apellido Paterno 
-
 ----------------
 
 El formulario permite realizar la búsqueda mediante el apellido paterno de quien haya realizado algún trámite. Al ingresar alguna palabra, el sistema revisará si existen coincidencias con los apellidos registrados y las mostrará todas en la tabla.
