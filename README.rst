@@ -1,9 +1,5 @@
-Template for the Read the Docs tutorial
+Documentación licencias ARTF
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
+Este repositorio contiene documentación de licencias siguiendo el siguiente tutorial:
 https://docs.readthedocs.io/en/stable/tutorial/
