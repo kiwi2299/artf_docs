@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'ARTF Licencias'
+copyright = '2022, ARTF'
+author = 'Rafael Escudero'
 
 release = '0.1'
 version = '0.1.0'
