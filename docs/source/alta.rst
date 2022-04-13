@@ -1,7 +1,9 @@
 Alta
-===
+=====
+
+
+    Alta de trámites
 
 .. autosummary::
    :toctree: generated
 
-    Alta de trámites
