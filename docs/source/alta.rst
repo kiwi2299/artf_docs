@@ -1,4 +1,4 @@
-API
+Alta
 ===
 
 .. autosummary::
