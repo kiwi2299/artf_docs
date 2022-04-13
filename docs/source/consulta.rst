@@ -1,34 +1,28 @@
 Consulta
 =====
 
-.. _installation:
+El formulario de consulta permite realizar una búsqueda en la base de datos mediante Número de Solicitud, CURP y Apellido Paterno. Al empezar a escribir en uno de los campos, no permitirá escribir en los demás.
 
-Installation
+Una vez se hayan ingresados los datos para la consulta, el usuario deberá dar clic en el botón **Buscar** para realizar la búsqueda.
+
+
+Número de Solicitud
 ------------
 
-To use Lumache, first install it using pip:
+El número de solicitud se compone de siete dígitos. Si el número coincide con alguno de los ya registrados, se mostrará en la tabla con todos los campos correspondientes a ese número de solicitud.
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
-Creating recipes
+CURP
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+El formulario permite realizar la búsqueda mediante la CURP de quien haya realizado algún trámite. En la tabla se mostrarán todos los trámites que haya realizado esta persona. 
 
-.. autofunction:: lumache.get_random_ingredients
+Para revisar la información completa referente al trámite, se puede dar clic en el botón de la columna **Información**.
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+Apellido Paterno 
 
-.. autoexception:: lumache.InvalidKindError
+----------------
 
-For example:
+El formulario permite realizar la búsqueda mediante el apellido paterno de quien haya realizado algún trámite. Al ingresar alguna palabra, el sistema revisará si existen coincidencias con los apellidos registrados y las mostrará todas en la tabla.
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+Por ejemplo: 
+   Buscar la palabra 'ez' regresará todos los apellidos que contengan esa palabra, no solamente al principio o al final.  
