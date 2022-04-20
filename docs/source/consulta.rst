@@ -18,10 +18,12 @@ El formulario permite realizar la búsqueda mediante la CURP de quien haya reali
 
 Para revisar la información completa referente al trámite, se puede dar clic en el botón de la columna **Información**.
 
-Apellido Paterno 
+Nombres y Apellidos 
 ----------------
 
-El formulario permite realizar la búsqueda mediante el apellido paterno de quien haya realizado algún trámite. Al ingresar alguna palabra, el sistema revisará si existen coincidencias con los apellidos registrados y las mostrará todas en la tabla.
+El formulario permite realizar la búsqueda mediante el apellido paterno, materno o nombres de quien haya realizado algún trámite. Al ingresar alguna palabra, el sistema revisará si existen coincidencias con los apellidos y nombres registrados y las mostrará todas en la tabla.
 
 Por ejemplo: 
-   Buscar la palabra 'ez' regresará todos los apellidos que contengan esa palabra, no solamente al principio o al final.  
+   Buscar la palabra 'ez' regresará todos los apellidos y nombres que contengan esa palabra, no solamente al principio o al final.  
+   
+Una vez se visualizan los resultados en la tabla, una barra de búsqueda permitirá filtrar la información conforme a cualquiera de las columnas.
