@@ -7,7 +7,7 @@ Una vez se hayan ingresados los datos para la consulta, el usuario deberá dar c
 
 .. image:: images/consulta_licencias.JPG
   :alt: Formulario de carga de licencias
-  :width: 400
+  :width: 600
   
 
 Número de Solicitud
