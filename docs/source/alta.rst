@@ -5,7 +5,7 @@ La pestaña de **Alta** en el menú permite acceder al formulario de alta de lic
 
 .. image:: images/carga_licencias.JPG
   :alt: Formulario de carga de licencias
-  :width: 600
+  :width: 400
   
   
 
