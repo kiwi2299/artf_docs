@@ -3,7 +3,7 @@ Alta
 
 La pestaña de **Alta** en el menú permite acceder al formulario de alta de licencias. Para subir los datos al sistema se deben realizar los siguientes pasos:
 
-.. image:: images/carga_licencias.jpg
+.. image:: images/carga_licencias.JPG
   :width: 400
   :alt: Formulario de carga de licencias
 
