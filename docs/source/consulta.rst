@@ -5,6 +5,10 @@ El formulario de consulta permite realizar una búsqueda en la base de datos med
 
 Una vez se hayan ingresados los datos para la consulta, el usuario deberá dar clic en el botón **Buscar** para realizar la búsqueda.
 
+.. image:: images/consulta_licencias.JPG
+  :alt: Formulario de carga de licencias
+  :width: 600
+  :scale: 50
 
 Número de Solicitud
 ------------
