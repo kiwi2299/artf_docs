@@ -4,10 +4,10 @@ Alta
 La pestaña de **Alta** en el menú permite acceder al formulario de alta de licencias. Para subir los datos al sistema se deben realizar los siguientes pasos:
 
 .. image:: images/carga_licencias.JPG
-  :width: 600
-  :scale: 50
-  :align: middle
   :alt: Formulario de carga de licencias
+  :width: 400
+  :align: middle
+  
 
 1. Ingresar los datos requeridos al archivo CSV dedicado, llamado **layout_licencias.csv**. *Es importante que se llenen todas las columnas*. 
 
