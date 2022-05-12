@@ -5,6 +5,8 @@ La pestaña de **Alta** en el menú permite acceder al formulario de alta de lic
 
 .. image:: images/carga_licencias.JPG
   :width: 600
+  :scale: 50
+  :align: middle
   :alt: Formulario de carga de licencias
 
 1. Ingresar los datos requeridos al archivo CSV dedicado, llamado **layout_licencias.csv**. *Es importante que se llenen todas las columnas*. 
