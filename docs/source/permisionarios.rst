@@ -4,7 +4,7 @@ Permisionarios
 Alta
 ----
 
-.. image:: images/alta_permi.JPG
+.. image:: images/2022-05-16.png
   :alt: Alta permisionario
   :width: 600
   
