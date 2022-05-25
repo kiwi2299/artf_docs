@@ -32,8 +32,6 @@ Modificar, Eliminar y Adjuntar Documentos
 1. En el menú de la parte izquierda de la aplicación, diríjase a **REGISTRO -> CONSULTA REGISTROS**. Una tabla con todos los registros existentes se mostrará debajo, se puede filtrar cualquier columna mediante la barra de búsqueda.
 2. Para ELIMINAR, seleccionar el botón rojo en la última columna de la tabla, que dice **BORRAR REGISTROS**.
 3. Para MODIFICAR, seleccionar el botón verde en la primera columna de la tabla, que dice **VER INFORMACION**.
-
-3.1. Se desplegará un cuadro con todos los campos del registro, podrá cambiar cualquiera de los campos.
-3.2. En la parte inferior del cuadro, seleccionar el botón **ACTUALIZAR** para guardar los cambios.
-
-4. Para ADJUNTAR DOCUMENTOS, seleccionar el botón gris en la última columna de la tabla, que dice **ADJUNTAR DOCUMENTO**.
+4. Se desplegará un cuadro con todos los campos del registro, podrá cambiar cualquiera de los campos.
+5. En la parte inferior del cuadro, seleccionar el botón **ACTUALIZAR** para guardar los cambios.
+6. Para ADJUNTAR DOCUMENTOS, seleccionar el botón gris en la última columna de la tabla, que dice **ADJUNTAR DOCUMENTO**.
