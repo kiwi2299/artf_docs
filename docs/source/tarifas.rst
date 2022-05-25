@@ -18,8 +18,7 @@ Consulta
   :alt: tarifas
   :width: 600
   
-1. En el menú de la parte izquierda de la aplicación, diríjase a **REGISTRO -> CONSULTA REGISTROS**.
-Una tabla con todos los registros existentes se mostrará debajo, se puede filtrar cualquier columna mediante la barra de búsqueda.
+1. En el menú de la parte izquierda de la aplicación, diríjase a **REGISTRO -> CONSULTA REGISTROS**. Una tabla con todos los registros existentes se mostrará debajo, se puede filtrar cualquier columna mediante la barra de búsqueda.
 3. Para consultar un rango de fechas, se puede ingresar una *fecha inicial* y *fecha final*.
 4. Dar clic en **BUSCAR**
 5. Se desplegará en la tabla todos los registros que se hayan dado de alta en ese rango de fechas.
@@ -30,9 +29,7 @@ Modificar, Eliminar y Adjuntar Documentos
   :alt: tarifas
   :width: 600
 
-1. En el menú de la parte izquierda de la aplicación, diríjase a **REGISTRO -> CONSULTA REGISTROS**.
-Una tabla con todos los registros existentes se mostrará debajo, se puede filtrar cualquier columna mediante la barra de búsqueda.
-
+1. En el menú de la parte izquierda de la aplicación, diríjase a **REGISTRO -> CONSULTA REGISTROS**. Una tabla con todos los registros existentes se mostrará debajo, se puede filtrar cualquier columna mediante la barra de búsqueda.
 2. Para ELIMINAR, seleccionar el botón rojo en la última columna de la tabla, que dice **BORRAR REGISTROS**
 3. Para MODIFICAR, seleccionar el botón verde en la primera columna de la tabla, que dice **VER INFORMACION**
 3.1 Se desplegará un cuadro con todos los campos del registro, podrá cambiar cualquiera de los campos.
